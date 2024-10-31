@@ -9,7 +9,7 @@ He also does the withdrawal and deposit manually for each account.
 He also does the transfer of balances if there are requests for it.
 Your task is to help this poor employee out by creating a simple admin banking app
 
-[Live demo of Banking App](https://chinnysandra1.github.io/banking-app/)
+[Live demo of Banking App](https://jeffdelara.github.io/banking-app/)
 
 ## Objective
 
@@ -21,7 +21,7 @@ Use the following credentials to test the app.
 
 ### For Admin
 
-email: john.doe@example.com
+email:john.doe@example.com
 password: securePassword123
 
 ```
@@ -36,4 +36,4 @@ email: client@client.com
 password: abc123
 ```
 
-[Live demo of Banking App](https://chinnysandra1.github.io/banking-app/)
+[Live demo of Banking App](https://jeffdelara.github.io/banking-app/)
